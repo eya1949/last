@@ -35,6 +35,10 @@
 7. Disable tap highlights on iOS
 */
 
+html{
+  overflow-y: hidden;
+}
+
 html,
 :host {
   line-height: 1.5;
